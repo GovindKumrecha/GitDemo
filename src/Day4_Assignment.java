@@ -17,6 +17,7 @@ public class Day4_Assignment {
         driver.get("https://www.instagram.com/");
        // 1. Create the object reference of takesScreenshot.
         // assign the current drive to it.
+// hang
         TakesScreenshot ts =(TakesScreenshot) driver;
 
         //2.call the method getScreenshotAs()
