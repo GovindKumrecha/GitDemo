@@ -18,6 +18,7 @@ public class Day4_Assignment {
        // 1. Create the object reference of takesScreenshot.
         // assign the current drive to it.
 // hang
+//Again added from the git demo
         TakesScreenshot ts =(TakesScreenshot) driver;
 
         //2.call the method getScreenshotAs()
